@@ -1,0 +1,11 @@
+{
+  "name": "craiglistpuppeteer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "mongoose": "^5.9.22",
+    "puppeteer": "^5.0.0"
+  }
+}
